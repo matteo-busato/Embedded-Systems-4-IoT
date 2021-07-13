@@ -13,4 +13,5 @@ IDE :
 
 Recreate Labyrinth game (Marble game) using accelerometer sensor as controller.
 
+<img width="594" alt="immagine" src="https://user-images.githubusercontent.com/71706083/125489761-132629b1-04b2-4998-9ff2-b2f064ddb194.png">
 
